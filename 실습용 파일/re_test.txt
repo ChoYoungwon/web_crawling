@@ -1,0 +1,6 @@
+Tue Oct 30 17:43:46 2012
+ORA-00312 : online log 1 thread 1
+Starting ORACLE instance (normal)     
+ORA-00313 : open failed for members
+LICENSE_MAX_SESSION = 0
+ORA-27037 : unable to obtain file status
